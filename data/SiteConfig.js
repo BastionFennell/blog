@@ -1,7 +1,7 @@
 module.exports = {
   blogPostDir: "posts", // The name of directory that contains your posts.
   blogAuthorDir: "data", // The name of directory that contains your 'authors' folder.
-  blogAuthorId: "Bastion", // The default and fallback author ID used for blog posts without a defined author.
+  blogAuthorId: "bastion", // The default and fallback author ID used for blog posts without a defined author.
   siteTitle: "The Last Bastion", // Site title.
   siteTitleAlt: "The Last Bastion - React and Javascript Blog", // Alternative site title for SEO.
   siteLogo:
