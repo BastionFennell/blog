@@ -1,0 +1,13 @@
+{
+  "uid": "bastion",
+  "name": "Bastion Fennell",
+  "image": "https://api.adorable.io/avatars/150/test.png",
+  "url": "http://gatsbyjs.org/",
+  "location": "Austin, TX",
+  "bio": "I put rounded corners on buttons",
+  "socialUrls": [
+    "https://github.com/BastionFennell",
+    "https://twitter.com/bastionthedev",
+    "mailto:bastionthedev@example.com"
+  ]
+}
